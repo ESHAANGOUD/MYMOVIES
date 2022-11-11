@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WatchMovie'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ECEEC8BA13694DF0ABA6E002457E0CDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F5308CF3B2742EDA65601191D7FAA56 }}
           package: .
